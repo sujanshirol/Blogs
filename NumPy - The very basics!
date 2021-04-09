@@ -1,3 +1,8 @@
 # NumPy - The very basics!
 This article is for people who have zero knowledge of NumPy so that they can get a little hang of it to kick start.
-NumPy is the package for scientific and mathematical computing in Python. While NumPy is widely used in an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms basic linear algebra, basic statistical operations, random simulation and much more we will, however, today scratch the very basics of NumPy.
+NumPy is the package for scientific and mathematical computing in Python. While NumPy is widely used in an assortment of 
+routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, 
+discrete Fourier transforms basic linear algebra, basic statistical operations, random simulation and much more we will, 
+however, today scratch the very basics of NumPy.
+
+Link to full article: https://medium.com/analytics-vidhya/numpy-the-very-basics-6ce19206ee22?sk=c1eb71e87d056597a7cdf21965031f27
