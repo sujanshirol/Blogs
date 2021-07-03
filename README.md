@@ -19,3 +19,4 @@
 2. [Genetic Algorithm (GA) Introduction with Example Code](https://pub.towardsai.net/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf?source=friends_link&sk=9354f7181d726dd0c005301129dda9e9)
 3. [K-Nearest Neighbors (KNN) Algorithm Tutorial — Machine Learning Basics](https://pub.towardsai.net/k-nearest-neighbors-knn-algorithm-tutorial-machine-learning-basics-ml-ec6756d3e0ac?source=friends_link&sk=4ab6eec752ef4293bad0e490eb3ca864)
 4. [Support Vector Machine (SVM) Introduction — Machine Learning](https://pub.towardsai.net/support-vector-machine-svm-introduction-machine-learning-8c56b7da63f1?source=friends_link&sk=fa4eff1d93971e1903784ffe156f5567)
+5. [Data Science Job Market Trend Analysis for 2021](https://pub.towardsai.net/current-data-science-job-market-trend-analysis-future-4184f03a04ca?source=friends_link&sk=a6a4a77eb5ca0cfb61d2c9382e3ad3c2)
