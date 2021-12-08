@@ -24,7 +24,7 @@
 ## Freelance blogs
 1. [Snorkel Science Talk](https://snorkel.ai/applying-weak-supervision-research/)
 2. [Datalogz - Power BI Metadata](https://www.datalogz.io/post/power-bi-metadata)
-3. [Datalogz - Data Documentation Tools](https://www.datalogz.io/post/power-bi-metadata) 
+3. [Datalogz - Data Documentation Tools](https://www.datalogz.io/post/data-documentation-tools) 
 
 ## Recommendation Letter from Towards AI
 ![image](https://user-images.githubusercontent.com/71747522/131354906-ccb93408-ac41-4eab-a76b-59bc8edfe86a.png)
