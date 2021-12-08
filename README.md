@@ -1,6 +1,6 @@
 # Blogs
 
-## Beginner-friendly personal blogs
+## DS/ML Blogs
 1. [NumPy - The very basics!](https://medium.com/analytics-vidhya/numpy-the-very-basics-6ce19206ee22?source=friends_link&sk=c1eb71e87d056597a7cdf21965031f27)
 2. [Advanced NumPy for Data Science](https://medium.com/analytics-vidhya/advanced-numpy-218584c60c63?source=friends_link&sk=bbcbc11646ffeb75e30250ac756c4560)
 3. [Unpacking Pandas for Data Science](https://medium.com/swlh/unpacking-pandas-for-data-science-part-1-32e480ca1688?source=friends_link&sk=90f947506b265622120e842524d7fd19)
@@ -14,12 +14,17 @@
 11. [Data Collaboration Made Easier](https://pub.towardsai.net/data-collaboration-made-easier-b0bfbeab48f1?source=friends_link&sk=f8539c82b90bbbce71bfbff04991132e)
 12. [Hypotheses Testing with SciPy](https://pub.towardsai.net/hypotheses-testing-with-scipy-b5ba86430d74?source=friends_link&sk=6746599f6f0998ca1b66d4b031ffedc5)
 
-## As an intern at TowardsAI organization
+## As an intern at TowardsAI
 1. [Random Number Generator Tutorial with Python](https://pub.towardsai.net/random-number-generator-tutorial-with-python-3b35986132c7?source=friends_link&sk=c70b98e0e7e3fdc089afcefd1ff66d32)
 2. [Genetic Algorithm (GA) Introduction with Example Code](https://pub.towardsai.net/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf?source=friends_link&sk=9354f7181d726dd0c005301129dda9e9)
 3. [K-Nearest Neighbors (KNN) Algorithm Tutorial — Machine Learning Basics](https://pub.towardsai.net/k-nearest-neighbors-knn-algorithm-tutorial-machine-learning-basics-ml-ec6756d3e0ac?source=friends_link&sk=4ab6eec752ef4293bad0e490eb3ca864)
 4. [Support Vector Machine (SVM) Introduction — Machine Learning](https://pub.towardsai.net/support-vector-machine-svm-introduction-machine-learning-8c56b7da63f1?source=friends_link&sk=fa4eff1d93971e1903784ffe156f5567)
 5. [Data Science Job Market Trend Analysis for 2021](https://pub.towardsai.net/current-data-science-job-market-trend-analysis-future-4184f03a04ca?source=friends_link&sk=a6a4a77eb5ca0cfb61d2c9382e3ad3c2)
+
+## Freelance blogs
+1. [Snorkel Science Talk](https://snorkel.ai/applying-weak-supervision-research/)
+2. [Datalogz - Power BI Metadata](https://www.datalogz.io/post/power-bi-metadata)
+3. [Datalogz - Data Documentation Tools](https://www.datalogz.io/post/power-bi-metadata) 
 
 ## Recommendation Letter from Towards AI
 ![image](https://user-images.githubusercontent.com/71747522/131354906-ccb93408-ac41-4eab-a76b-59bc8edfe86a.png)
